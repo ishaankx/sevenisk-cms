@@ -15,10 +15,12 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/vision": "^4.14.2",
+    "@portabletext/react": "^5.0.0",
+    "@sanity/vision": "^4.15.0",
+    "lucide-react": "^0.553.0",
     "react": "^19.1",
     "react-dom": "^19.1",
-    "sanity": "^4.14.2",
+    "sanity": "^4.15.0",
     "styled-components": "^6.1.18"
   },
   "devDependencies": {
